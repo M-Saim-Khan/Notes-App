@@ -9,7 +9,7 @@ A full-stack Notes Application built with Django, Django REST Framework, and Rea
 - View notes
 - Delete notes
 
-**Made using:**
+**Tools used:**
 - Django
 - Django REST Framework
 - React
